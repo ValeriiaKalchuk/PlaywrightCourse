@@ -1,0 +1,27 @@
+{
+  "name": "playwrightcourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "regression": "npx playwright test",
+    "webTests": "npx playwright test --grep @WEB",
+    "APItests": "npx playwright test --grep @API",
+    "SafariConfig": "npx playwright test --config playwright.config1.js --project=safari",
+    "generateReport": "npx allure generate --single-file \"./allure-results\" --clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@azure/microsoft-playwright-testing": "^1.0.0-beta.7",
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10",
+    "allure-commandline": "^2.34.1",
+    "allure-playwright": "^3.3.1"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}

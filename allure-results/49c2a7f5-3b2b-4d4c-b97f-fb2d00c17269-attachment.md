@@ -1,0 +1,1138 @@
+# Page snapshot
+
+```yaml
+- link "logo":
+  - /url: https://www.rediff.com
+  - img "logo"
+- link "Rediffmail":
+  - /url: https://mail.rediff.com/cgi-bin/login.cgi
+- link "Money":
+  - /url: https://money.rediff.com/index.html
+- link "Enterprise Email":
+  - /url: https://workmail.rediff.com/?sc_cid=ushome
+- link "Business Email":
+  - /url: https://businessemail.rediff.com/?sc_cid=ushome
+- link "rediffGURUS":
+  - /url: https://gurus.rediff.com/
+- link "rediff-TV New":
+  - /url: https://tv.rediff.com
+- paragraph
+- paragraph:
+  - link "Sign in":
+    - /url: https://mail.rediff.com/cgi-bin/login.cgi
+  - link "Create Account":
+    - /url: https://register.rediff.com/register/register.php?FormName=user_details
+- iframe
+- text: Advertisement
+- iframe
+- text: HOME
+- link "NEWS":
+  - /url: https://www.rediff.com/news
+- link "BUSINESS":
+  - /url: https://www.rediff.com/business
+- link "MOVIES":
+  - /url: https://www.rediff.com/movies
+- link "CRICKET":
+  - /url: https://www.rediff.com/cricket
+- link "SPORTS":
+  - /url: https://www.rediff.com/sports
+- link "GET AHEAD":
+  - /url: https://www.rediff.com/getahead
+- link "INDIA-ENGLAND":
+  - /url: https://www.rediff.com/cricket/indias-tour-of-england-2025
+- link "REDIFF-TV New":
+  - /url: https://tv.rediff.com
+- text: "Follow Rediff on:"
+- link:
+  - /url: https://x.com/RediffNews
+- link:
+  - /url: https://www.instagram.com/rediffnews/
+- link:
+  - /url: https://www.facebook.com/people/Rediff-News/61566156876578/
+- link:
+  - /url: https://whatsapp.com/channel/0029Va5OV1pLtOjB8oWyne1F
+- heading "TOP STORIES" [level=1]
+- link "Like Janhvi's Tulsi Kumari Look? VOTE!":
+  - /url: https://www.rediff.com/movies/report/like-janhvis-tulsi-kumari-look-vote/20250715.htm
+  - img "Like Janhvi's Tulsi Kumari Look? VOTE!"
+- heading "Like Janhvi's Tulsi Kumari Look? VOTE!" [level=2]:
+  - link "Like Janhvi's Tulsi Kumari Look? VOTE!":
+    - /url: https://www.rediff.com/movies/report/like-janhvis-tulsi-kumari-look-vote/20250715.htm
+- paragraph: 1 min read
+- paragraph: 48 minutes ago
+- paragraph: Jul 15, 2025 IST 15:21:01
+- heading "LIVE! Splashdown! Welcome back to Earth, Shubhanshu!" [level=2]:
+  - link "LIVE! Splashdown! Welcome back to Earth, Shubhanshu!":
+    - /url: https://m.rediff.com/news/commentary/2025/jul/15/liveupdates.htm
+  - paragraph
+- heading "Yemen defers Nimisha's execution 24 hours earlier 2 min read" [level=2]:
+  - link "Yemen defers Nimisha's execution 24 hours earlier":
+    - /url: https://www.rediff.com/news/report/yemen-defers-nimishas-execution-24-hours-earlier/20250715.htm
+  - paragraph: 2 min read
+- heading "Porsche teen who mowed down 2 to be tried as juvenile 2 min read" [level=2]:
+  - link "Porsche teen who mowed down 2 to be tried as juvenile":
+    - /url: https://www.rediff.com/news/report/porsche-teen-who-mowed-down-2-to-be-tried-as-juvenile/20250715.htm
+  - paragraph: 2 min read
+- heading "'Sadly, SOPs Are Written On Somebody's Blood' 5 min read" [level=2]:
+  - link "'Sadly, SOPs Are Written On Somebody's Blood'":
+    - /url: https://www.rediff.com/news/special/ai-171-crash-sadly-sops-are-written-on-somebodys-blood/20250715.htm
+  - paragraph: 5 min read
+- 'heading "PM, RSS sketches: SC protects cartoonist with a warning 3 min read" [level=2]':
+  - 'link "PM, RSS sketches: SC protects cartoonist with a warning"':
+    - /url: https://www.rediff.com/news/report/pm-rss-sketches-sc-protects-cartoonist-with-a-warning/20250715.htm
+  - paragraph: 3 min read
+- heading "6 Reasons Why India Failed At Lord's 7 min read" [level=2]:
+  - link "6 Reasons Why India Failed At Lord's":
+    - /url: https://www.rediff.com/cricket/report/6-reasons-why-india-failed-at-lords/20250715.htm
+  - paragraph: 7 min read
+- heading "'Reddy Or Jadeja Should Have Attacked' 3 min read" [level=2]:
+  - link "'Reddy Or Jadeja Should Have Attacked'":
+    - /url: https://www.rediff.com/cricket/report/lords-test-reddy-or-jadeja-should-have-attacked/20250715.htm
+  - paragraph: 3 min read
+- paragraph:
+  - link "See More >":
+    - /url: https://www.rediff.com/news
+- text: Advertisement
+- paragraph:
+  - link "Rediff-TV":
+    - /url: https://tv.rediff.com
+- 'link "Trump again: ''Ended India-Pak conflict through trade''"':
+  - /url: https://tv.rediff.com/news/trump-again-ended-indiapak-conflict-through-trade/350590
+  - img
+  - text: "Trump again: 'Ended India-Pak conflict through trade'"
+- link "LIVE":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/liveupdates.htm
+- text: 15:20
+- link "Speedboats to bring astronauts to recovery ship":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/speedboats-to-bring-astronauts-to-recovery-ship/bbd2ecf1a50255119aee500c222a1946
+  - img
+  - text: Speedboats to bring astronauts to recovery ship
+- text: 15:14
+- link "Shubhanshu's family rejoice at his safe return":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/shubhanshus-family-rejoice-at-his-safe-return/2eb81c69a3acf0197163b1baee01656e
+  - img
+  - text: Shubhanshu's family rejoice at his safe return
+- text: 15:10
+- link "Happy to be back, says Peggy Whitson":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/happy-to-be-back-says-peggy-whitson/cdbb850b73b53b4db8f3bfbeaecfefc9
+  - img
+  - text: Happy to be back, says Peggy Whitson
+- text: 15:05
+- link "Splashdown! Shubhanshu Shukla returns to Earth":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/splashdown-shubhanshu-shukla-returns-to-earth/70a1bcd5adb83c3d37d732035eecd271
+  - img
+  - text: Splashdown! Shubhanshu Shukla returns to Earth
+- text: 14:48
+- 'link "Shubhanshu return: Spacecraft''s nose cone closed"':
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/shubhanshu-return-spacecrafts-nose-cone-closed/54fb5489e52c1ea756d50f844ec25da7
+  - img
+  - text: "Shubhanshu return: Spacecraft's nose cone closed"
+- text: 14:33
+- link "Shubhanshu's parents at his school to watch splashdown":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/shubhanshus-parents-at-his-school-to-watch-splashdown/989919a9f8a511a69bdc4b92ed28dc2f
+  - img
+  - text: Shubhanshu's parents at his school to watch splashdown
+- text: 14:16
+- link "SIA checks its Boeing 787 fuel switches, says these are functioning property":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/sia-checks-its-boeing-787-fuel-switches-says-these-are-functioning-property/665be9b272a0624727eccf56e7496598
+  - img
+  - text: SIA checks its Boeing 787 fuel switches, says these are functioning property
+- text: 13:59
+- link "Yemen postpones execution of Indian nurse":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/yemen-postpones-execution-of-indian-nurse/44b6e47ef417c34d884b3525e9c89305
+  - img
+  - text: Yemen postpones execution of Indian nurse
+- text: 13:44
+- link "IIT Madras's Rs 200cr VC Fund To Target Next-Gen Unicorns":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/iit-madrass-rs-200cr-vc-fund-to-target-nextgen-unicorns/06e546c8942f65eebb2251c71bde39a5
+  - img
+  - text: IIT Madras's Rs 200cr VC Fund To Target Next-Gen Unicorns
+- text: 13:39
+- 'link "Pune Porsche case: 17-yo-accused to be tried as juvenile"':
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/pune-porsche-case-17yoaccused-to-be-tried-as-juvenile/66b43a06767cfed5e9274d081a3de863
+  - img
+  - text: "Pune Porsche case: 17-yo-accused to be tried as juvenile"
+- text: 13:36
+- link "30L voters' names likely to be deleted In Bihar":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/30l-voters-names-likely-to-be-deleted-in-bihar/1d7905f384330b3bb7d13266fbbab4df
+  - img
+  - text: 30L voters' names likely to be deleted In Bihar
+- text: 13:23
+- 'link "PM, RSS sketch: SC protects cartoonist, with a warning"':
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/pm-rss-sketch-sc-protects-cartoonist-with-a-warning/6e0d3c44017fa895676bfd42735c4e87
+  - img
+  - text: "PM, RSS sketch: SC protects cartoonist, with a warning"
+- text: Showing 1/4
+- button ">"
+- button "<" [disabled]
+- link "See More >":
+  - /url: https://m.rediff.com/news/commentary/2025/jul/15/liveupdates.htm
+- heading "MORE NEWS" [level=2]:
+  - link "MORE NEWS":
+    - /url: https://www.rediff.com/news
+- link "Ditch Sugary Cereals. Let Kids Try This":
+  - /url: https://www.rediff.com/getahead/report/ditch-sugary-cereals-let-your-kids-try-this/20250715.htm
+  - img "Ditch Sugary Cereals. Let Kids Try This"
+- heading "Ditch Sugary Cereals. Let Kids Try This" [level=2]:
+  - link "Ditch Sugary Cereals. Let Kids Try This":
+    - /url: https://www.rediff.com/getahead/report/ditch-sugary-cereals-let-your-kids-try-this/20250715.htm
+- paragraph: 4 min read
+- paragraph: 3 hours ago
+- link "Ananya's Stylish Greek Holiday":
+  - /url: https://www.rediff.com/movies/report/ananyas-stylish-greek-holiday/20250715.htm
+  - img "Ananya's Stylish Greek Holiday"
+- heading "Ananya's Stylish Greek Holiday" [level=3]:
+  - link "Ananya's Stylish Greek Holiday":
+    - /url: https://www.rediff.com/movies/report/ananyas-stylish-greek-holiday/20250715.htm
+- paragraph: 1 min read
+- paragraph: 5 hours ago
+- link "Kanikka Kapur's Style Game Is Pure Fire":
+  - /url: https://www.rediff.com/getahead/report/kanikka-kapurs-style-game-is-pure-fire/20250715.htm
+  - img "Kanikka Kapur's Style Game Is Pure Fire"
+- heading "Kanikka Kapur's Style Game Is Pure Fire" [level=3]:
+  - link "Kanikka Kapur's Style Game Is Pure Fire":
+    - /url: https://www.rediff.com/getahead/report/kanikka-kapurs-style-game-is-pure-fire/20250715.htm
+- paragraph: 2 min read
+- paragraph: 6 hours ago
+- heading "'Before Rajiv's Murder, No One Knew Suicide Bombers'" [level=3]:
+  - link "'Before Rajiv's Murder, No One Knew Suicide Bombers'":
+    - /url: https://www.rediff.com/movies/report/before-rajiv-gandhis-murder-no-one-knew-suicide-bombers/20250715.htm
+- paragraph: 9 min read
+- heading "Marathon Legend Fauja Singh Dies in Tragic Accident" [level=3]:
+  - link "Marathon Legend Fauja Singh Dies in Tragic Accident":
+    - /url: https://www.rediff.com/sports/report/pix-centenarian-marathon-legend-fauja-singh-dies-in-tragic-accident/20250715.htm
+- paragraph: 5 min read
+- 'heading "Malaika: Accidentally Fell In Love With..." [level=3]':
+  - 'link "Malaika: Accidentally Fell In Love With..."':
+    - /url: https://www.rediff.com/movies/report/malaika-i-accidentally-fell-in-love-with/20250714.htm
+- paragraph: 1 min read
+- heading "Cricket schedule at the LA Olympics announced!" [level=3]:
+  - link "Cricket schedule at the LA Olympics announced!":
+    - /url: https://www.rediff.com/cricket/report/cricket-schedule-at-the-la-olympics-announced/20250715.htm
+- paragraph: 2 min read
+- heading "Hospitality Business Needs People, Not AI" [level=3]:
+  - link "Hospitality Business Needs People, Not AI":
+    - /url: https://www.rediff.com/getahead/report/hospitality-business-needs-people-not-ai/20250715.htm
+- paragraph: 4 min read
+- paragraph:
+  - link "See More >":
+    - /url: https://www.rediff.com/news
+- text: Advertisement
+- insertion
+- heading "NEWS" [level=2]:
+  - link "NEWS":
+    - /url: https://www.rediff.com/news
+- link "India Must Be Ready For Next War With Pakistan":
+  - /url: https://www.rediff.com/news/column/operation-sindoor-india-must-be-ready-for-next-war-with-pakistan/20250715.htm
+  - img "India Must Be Ready For Next War With Pakistan"
+- heading "India Must Be Ready For Next War With Pakistan" [level=2]:
+  - link "India Must Be Ready For Next War With Pakistan":
+    - /url: https://www.rediff.com/news/column/operation-sindoor-india-must-be-ready-for-next-war-with-pakistan/20250715.htm
+- paragraph: 8 min read
+- link "Every One Of These Pictures Tell A Story":
+  - /url: https://www.rediff.com/news/report/every-one-of-these-pictures-tell-a-story/20250715.htm
+  - img "Every One Of These Pictures Tell A Story"
+- heading "Every One Of These Pictures Tell A Story" [level=3]:
+  - link "Every One Of These Pictures Tell A Story":
+    - /url: https://www.rediff.com/news/report/every-one-of-these-pictures-tell-a-story/20250715.htm
+- paragraph: 2 min read
+- paragraph: 2 hours ago
+- link "'Why Would A Pilot Go And Touch The Switch?'":
+  - /url: https://www.rediff.com/news/interview/ai-171-crash-why-would-a-pilot-go-and-touch-the-switch/20250714.htm
+  - img "'Why Would A Pilot Go And Touch The Switch?'"
+- heading "'Why Would A Pilot Go And Touch The Switch?'" [level=3]:
+  - link "'Why Would A Pilot Go And Touch The Switch?'":
+    - /url: https://www.rediff.com/news/interview/ai-171-crash-why-would-a-pilot-go-and-touch-the-switch/20250714.htm
+- paragraph: 10 min read
+- paragraph: 1 day ago
+- heading "Thousands attend Odisha student's funeral, seek action" [level=3]:
+  - link "Thousands attend Odisha student's funeral, seek action":
+    - /url: https://www.rediff.com/news/report/thousands-attend-odisha-students-funeral-seek-action/20250715.htm
+- paragraph: 3 min read
+- 'heading "Odisha student death: CM offers aid, Oppn calls bandh" [level=3]':
+  - 'link "Odisha student death: CM offers aid, Oppn calls bandh"':
+    - /url: https://www.rediff.com/news/report/odisha-student-death-cm-announces-ex-gratia-oppn-calls-bandh/20250715.htm
+- paragraph: 3 min read
+- heading "SpiceJet flyers try to force their way into cockpit" [level=3]:
+  - link "SpiceJet flyers try to force their way into cockpit":
+    - /url: https://www.rediff.com/news/report/spicejet-flyers-try-to-force-their-way-into-cockpit-offloaded/20250715.htm
+- paragraph: 1 min read
+- heading "Case against UP teacher for song over Kanwar Yatra" [level=3]:
+  - link "Case against UP teacher for song over Kanwar Yatra":
+    - /url: https://www.rediff.com/news/report/case-against-up-teacher-for-song-over-kanwar-yatra/20250715.htm
+- paragraph: 2 min read
+- heading "Teens forced into oral sex over non-payment on loan" [level=3]:
+  - link "Teens forced into oral sex over non-payment on loan":
+    - /url: https://www.rediff.com/news/report/teens-forced-into-oral-sex-over-non-payment-on-loan/20250715.htm
+- paragraph: 2 min read
+- paragraph:
+  - link "See More >":
+    - /url: https://www.rediff.com/news
+- heading "NEWS" [level=2]:
+  - link "NEWS":
+    - /url: https://www.rediff.com/news
+- link "The Row Over Kashmir's Martyrs' Day":
+  - /url: https://www.rediff.com/news/special/history-in-minutes-the-row-over-kashmirs-martyrs-day/20250715.htm
+  - img "The Row Over Kashmir's Martyrs' Day"
+- heading "The Row Over Kashmir's Martyrs' Day" [level=2]:
+  - link "The Row Over Kashmir's Martyrs' Day":
+    - /url: https://www.rediff.com/news/special/history-in-minutes-the-row-over-kashmirs-martyrs-day/20250715.htm
+- paragraph: 4 min read
+- link "'No Sane Pilot Would Shut Off Fuel'":
+  - /url: https://www.rediff.com/news/interview/ai-171-crash-no-sane-pilot-would-shut-off-fuel/20250714.htm
+  - img "'No Sane Pilot Would Shut Off Fuel'"
+- heading "'No Sane Pilot Would Shut Off Fuel'" [level=3]:
+  - link "'No Sane Pilot Would Shut Off Fuel'":
+    - /url: https://www.rediff.com/news/interview/ai-171-crash-no-sane-pilot-would-shut-off-fuel/20250714.htm
+- paragraph: 7 min read
+- paragraph: 1 day ago
+- link "'Switches Seem To Be In Up Position, But...'":
+  - /url: https://www.rediff.com/news/interview/ai-171-crash-switches-seem-to-be-in-up-position-but/20250714.htm
+  - img "'Switches Seem To Be In Up Position, But...'"
+- heading "'Switches Seem To Be In Up Position, But...'" [level=3]:
+  - link "'Switches Seem To Be In Up Position, But...'":
+    - /url: https://www.rediff.com/news/interview/ai-171-crash-switches-seem-to-be-in-up-position-but/20250714.htm
+- paragraph: 6 min read
+- paragraph: 1 day ago
+- heading "Jaishankar 'conveys Modi's greetings' to Xi in Beijing" [level=3]:
+  - link "Jaishankar 'conveys Modi's greetings' to Xi in Beijing":
+    - /url: https://www.rediff.com/news/report/jaishankar-conveys-modis-greetings-to-xi-in-beijing/20250715.htm
+- paragraph: 1 min read
+- 'heading "Maha to bring stricter anti-conversion law: Minister" [level=3]':
+  - 'link "Maha to bring stricter anti-conversion law: Minister"':
+    - /url: https://www.rediff.com/news/report/maharashtra-to-bring-stricter-anti-conversion-law-minister/20250715.htm
+- paragraph: 2 min read
+- 'heading "Trump again: ''Ended India-Pak conflict through trade''" [level=3]':
+  - 'link "Trump again: ''Ended India-Pak conflict through trade''"':
+    - /url: https://www.rediff.com/news/report/trump-again-ended-india-pak-conflict-through-trade/20250715.htm
+- paragraph: 3 min read
+- heading "HC fines man Rs 1 lakh for attending hearing from toilet" [level=3]:
+  - link "HC fines man Rs 1 lakh for attending hearing from toilet":
+    - /url: https://www.rediff.com/news/report/hc-fines-guj-man-rs-1-lakh-for-attending-online-hearing-from-toilet/20250715.htm
+- paragraph: 3 min read
+- heading "Golden Temple's security beefed up after bomb threat" [level=3]:
+  - link "Golden Temple's security beefed up after bomb threat":
+    - /url: https://www.rediff.com/news/report/email-threatens-to-blow-up-golden-temple-security-beefed-up/20250715.htm
+- paragraph: 2 min read
+- paragraph:
+  - link "See More >":
+    - /url: https://www.rediff.com/news
+- text: Advertisement
+- iframe
+- heading "WEB STORIES" [level=2]:
+  - link "WEB STORIES":
+    - /url: https://www.rediff.com/getahead/web-stories
+- button ">"
+- button "<"
+- 'link "webstory image 1 Crunchy Chicken Salad: 15-Min Recipe"':
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-crunchy-chicken-salad-15-min-recipe/20250715.htm
+  - img "webstory image 1"
+  - 'heading "Crunchy Chicken Salad: 15-Min Recipe" [level=3]'
+- paragraph: 1 hour ago
+- link "webstory image 2 10 Rajendra Kumar Songs To Cherish":
+  - /url: https://www.rediff.com/movies/slide-show/slide-show-1-10-rajendra-kumar-songs-to-cherish/20250715.htm
+  - img "webstory image 2"
+  - heading "10 Rajendra Kumar Songs To Cherish" [level=3]
+- paragraph: 2 hours ago
+- link "webstory image 3 12 Most Delightful Foods Of Hyderabad":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-12-most-delightful-foods-of-hyderabad/20250714.htm
+  - img "webstory image 3"
+  - heading "12 Most Delightful Foods Of Hyderabad" [level=3]
+- paragraph: 4 hours ago
+- 'link "webstory image 4 10 Fun Facts About Chimps: Bananas, Brains & Beyond"':
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-10-fun-facts-about-chimps-bananas-brains--beyond/20250714.htm
+  - img "webstory image 4"
+  - 'heading "10 Fun Facts About Chimps: Bananas, Brains & Beyond" [level=3]'
+- paragraph: 15 hours ago
+- link "webstory image 5 HONOR X9c Engineered For The Sahara And Antarctica!":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-honor-x9c-engineered-for-all-weather-reliability/20250714.htm
+  - img "webstory image 5"
+  - heading "HONOR X9c Engineered For The Sahara And Antarctica!" [level=3]
+- paragraph: 15 hours ago
+- link "webstory image 6 10 Songs From Prakash Mehra's Films":
+  - /url: https://www.rediff.com/movies/slide-show/slide-show-1-10-songs-from-prakash-mehras-films/20250714.htm
+  - img "webstory image 6"
+  - heading "10 Songs From Prakash Mehra's Films" [level=3]
+- paragraph: 17 hours ago
+- link "webstory image 7 10 Classic Madan Mohan Songs":
+  - /url: https://www.rediff.com/movies/slide-show/slide-show-1-10-classic-madan-mohan-songs/20250714.htm
+  - img "webstory image 7"
+  - heading "10 Classic Madan Mohan Songs" [level=3]
+- paragraph: 1 day ago
+- 'link "webstory image 8 World Mac ''N'' Cheese Day: 20-Min Recipe"':
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-world-mac-n-cheese-day-20-min-recipe/20250714.htm
+  - img "webstory image 8"
+  - 'heading "World Mac ''N'' Cheese Day: 20-Min Recipe" [level=3]'
+- paragraph: 1 day ago
+- link "webstory image 9 Infinix Hot 60 5G+ Is Just 7.8mm Slim":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-infinix-hot-60-5g-is-just-78mm-slim/20250714.htm
+  - img "webstory image 9"
+  - heading "Infinix Hot 60 5G+ Is Just 7.8mm Slim" [level=3]
+- paragraph: 1 day ago
+- link "webstory image 10 8 Of The Oldest Countries In The World":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-8-of-the-oldest-countries-in-the-world/20250713.htm
+  - img "webstory image 10"
+  - heading "8 Of The Oldest Countries In The World" [level=3]
+- paragraph: 1 day ago
+- link "webstory image 11 Introducing 10 of India's 43 World Heritage Sites":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-introducing-10-of-indias-43-world-heritage-sites/20250711.htm
+  - img "webstory image 11"
+  - heading "Introducing 10 of India's 43 World Heritage Sites" [level=3]
+- paragraph: 1 day ago
+- link "webstory image 12 9 More Detectives You'll Never Forget":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-9-more-detectives-youll-never-forget/20250713.htm
+  - img "webstory image 12"
+  - heading "9 More Detectives You'll Never Forget" [level=3]
+- paragraph: 2 days ago
+- link "webstory image 13 Samsung Unveils OLED Monitor Range":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-samsung-unveils-oled-monitor-range/20250712.htm
+  - img "webstory image 13"
+  - heading "Samsung Unveils OLED Monitor Range" [level=3]
+- paragraph: 2 days ago
+- 'link "webstory image 14 Medal Glory: The Awards PM Modi Collected"':
+  - /url: https://www.rediff.com/news/slide-show/slide-show-1-medal-glory-the-awards-pm-modi-collected/20250711.htm
+  - img "webstory image 14"
+  - 'heading "Medal Glory: The Awards PM Modi Collected" [level=3]'
+- paragraph: 3 days ago
+- 'link "webstory image 15 Green Shakshuka: 30-Min Recipe"':
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-green-shakshuka-30-min-recipe/20250711.htm
+  - img "webstory image 15"
+  - 'heading "Green Shakshuka: 30-Min Recipe" [level=3]'
+- paragraph: 4 days ago
+- heading "REDIFF GURUS" [level=2]:
+  - link "REDIFF GURUS":
+    - /url: https://gurus.rediff.com?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- link "image Relationship":
+  - /url: https://gurus.rediff.com/question/qdtl/relationship/hello-ma-039-039-m-39yrs-guy-delhi-never-ever/5197339?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+  - img "image Relationship"
+- heading "Hello! Ma'am,I'm 39yrs old guy from Delhi. I never..." [level=2]:
+  - link "Hello! Ma'am,I'm 39yrs old guy from Delhi. I never...":
+    - /url: https://gurus.rediff.com/question/qdtl/relationship/hello-ma-039-039-m-39yrs-guy-delhi-never-ever/5197339?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- link "image Career":
+  - /url: https://gurus.rediff.com/question/qdtl/career/how-krupanidhi-college-bpt-don-039-their-own-hospital-problem/5231544?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+  - img "image Career"
+- heading "How is krupanidhi college for bpt? They don't have..." [level=2]:
+  - link "How is krupanidhi college for bpt? They don't have...":
+    - /url: https://gurus.rediff.com/question/qdtl/career/how-krupanidhi-college-bpt-don-039-their-own-hospital-problem/5231544?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- link "image Money":
+  - /url: https://gurus.rediff.com/question/qdtl/money/earlier-question-reg-taxability-treatment-sbi-life-smart-wealth-builder/5231902?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+  - img "image Money"
+- heading "In my earlier question reg taxability and tax..." [level=2]:
+  - link "In my earlier question reg taxability and tax...":
+    - /url: https://gurus.rediff.com/question/qdtl/money/earlier-question-reg-taxability-treatment-sbi-life-smart-wealth-builder/5231902?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- link "image Money":
+  - /url: https://gurus.rediff.com/question/qdtl/money/33-kid-2-brother-same-business-its-seasonal-business-stoles/5226464?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+  - img "image Money"
+- heading "Hi I am 33 years old have a kid 2 year old. Me and..." [level=2]:
+  - link "Hi I am 33 years old have a kid 2 year old. Me and...":
+    - /url: https://gurus.rediff.com/question/qdtl/money/33-kid-2-brother-same-business-its-seasonal-business-stoles/5226464?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- heading "My son got CSE in MUJ and CSE in JIIT. Which one will be..." [level=3]:
+  - link "My son got CSE in MUJ and CSE in JIIT. Which one will be...":
+    - /url: https://gurus.rediff.com/question/qdtl/career/got-cse-muj-cse-jiit-which-better-wants-pursue-masters/5232724?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- heading "Sir meri age 30 year hai mera first time fasting sugar 149 aur..." [level=3]:
+  - link "Sir meri age 30 year hai mera first time fasting sugar 149 aur...":
+    - /url: https://gurus.rediff.com/question/qdtl/health/meri-age-30-hai-mera-first-fasting-sugar-149-aur/5222352?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- heading "Hello, I've been working permanent night shifts for several..." [level=3]:
+  - link "Hello, I've been working permanent night shifts for several...":
+    - /url: https://gurus.rediff.com/question/qdtl/health/hello-039-working-permanent-night-shifts-several-meal-timings-highly/5212373?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- heading "I am a 52 yr old woman, divorced running a small home-based..." [level=3]:
+  - link "I am a 52 yr old woman, divorced running a small home-based...":
+    - /url: https://gurus.rediff.com/question/qdtl/relationship/52-yr-woman-divorced-running-small-home-based-business-irregular/5198649?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- heading "My mother made mukhwas at and its recipe includes flax, chia,..." [level=3]:
+  - link "My mother made mukhwas at and its recipe includes flax, chia,...":
+    - /url: https://gurus.rediff.com/question/qdtl/health/mother-made-mukhwas-its-recipe-includes-flax-chia-sesame-fennel/5220434?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- heading "I have a son who is 30 years old and is unmarried.He is..." [level=3]:
+  - link "I have a son who is 30 years old and is unmarried.He is...":
+    - /url: https://gurus.rediff.com/question/qdtl/money/who-30-unmarried-earning-salary-rs-100000-net-per-month/5202517?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- heading "Hello my jee mains rank is 192000 and obc ncl rank is 66000...." [level=3]:
+  - link "Hello my jee mains rank is 192000 and obc ncl rank is 66000....":
+    - /url: https://gurus.rediff.com/question/qdtl/career/hello-jee-mains-rank-192000-obc-ncl-rank-66000-mp/5230903?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- heading "Anu mam, my wife and I have been married for 18 months. I have..." [level=3]:
+  - link "Anu mam, my wife and I have been married for 18 months. I have...":
+    - /url: https://gurus.rediff.com/question/qdtl/relationship/anu-wife-married-18-months-always-grown-up-around-girls/5212358?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- paragraph:
+  - link "See More >":
+    - /url: https://gurus.rediff.com?utm_source=rediff_home_us&utm_medium=pc&utm_campaign=rediffgurus&utm_content=rediffgurus_rediff_home_us_pc
+- text: Advertisement
+- iframe
+- heading "VIDEOS" [level=2]:
+  - link "VIDEOS":
+    - /url: https://ishare.rediff.com
+- 'img "Tesla in India: First Look at Mumbai''s BKC Showroom"'
+- 'heading "Tesla in India: First Look at Mumbai''s BKC Showroom" [level=3]':
+  - 'link "Tesla in India: First Look at Mumbai''s BKC Showroom"':
+    - /url: https://ishare.rediff.com/video/others/tesla-in-india-first-look-at-mumbai-s-bkc-showroom/11355175
+- paragraph: 4:43 min
+- paragraph: 1 hour ago
+- img "Sanya Malhotra looks very stylish in a short white top and fashionable jeans"
+- heading "Sanya Malhotra looks very stylish in a short white top and fashionable jeans" [level=3]:
+  - link "Sanya Malhotra looks very stylish in a short white top and fashionable jeans":
+    - /url: https://ishare.rediff.com/video/others/sanya-malhotra-looks-very-stylish-in-a-short-white-top-and-fashionable-jeans/11355150
+- paragraph: 1:02 min
+- paragraph: 5 hours ago
+- img "Shruti Haasan spotted in Mumbai with Labubu Doll"
+- heading "Shruti Haasan spotted in Mumbai with Labubu Doll" [level=3]:
+  - link "Shruti Haasan spotted in Mumbai with Labubu Doll":
+    - /url: https://ishare.rediff.com/video/others/shruti-haasan-spotted-in-mumbai-with-labubu-doll/11355151
+- paragraph: 1:21 min
+- paragraph: 5 hours ago
+- 'img "Tesla in India: First Look at Mumbai''s BKC Showroom"'
+- 'heading "Tesla in India: First Look at Mumbai''s BKC Showroom" [level=3]':
+  - 'link "Tesla in India: First Look at Mumbai''s BKC Showroom"':
+    - /url: https://ishare.rediff.com/video/others/tesla-in-india-first-look-at-mumbai-s-bkc-showroom/11355156
+- paragraph: 0:35 min
+- paragraph: 4 hours ago
+- img "Shocking! Black paint splashed on former CM Karunanidhi statue in Salem"
+- heading "Shocking! Black paint splashed on former CM Karunanidhi statue in Salem" [level=3]:
+  - link "Shocking! Black paint splashed on former CM Karunanidhi statue in Salem":
+    - /url: https://ishare.rediff.com/video/others/shocking-black-paint-splashed-on-former-cm-karunanidhi-statue-in-salem/11355158
+- paragraph: 1:15 min
+- paragraph: 4 hours ago
+- img "Urvashi Rautela stuns in blue bodycon dress"
+- heading "Urvashi Rautela stuns in blue bodycon dress" [level=3]:
+  - link "Urvashi Rautela stuns in blue bodycon dress":
+    - /url: https://ishare.rediff.com/video/others/urvashi-rautela-stuns-in-blue-bodycon-dress/11355153
+- paragraph: 1:19 min
+- paragraph: 5 hours ago
+- img "Hema Malini plants saplings in Vrindavan under 'Ek Ped Maa Ke Naam' initiative"
+- heading "Hema Malini plants saplings in Vrindavan under 'Ek Ped Maa Ke Naam' initiative" [level=3]:
+  - link "Hema Malini plants saplings in Vrindavan under 'Ek Ped Maa Ke Naam' initiative":
+    - /url: https://ishare.rediff.com/video/others/hema-malini-plants-saplings-in-vrindavan-under-ek-ped-maa-ke-naam-initiative/11355107
+- paragraph: 3:44 min
+- paragraph: 20 hours ago
+- 'img "Differences shouldn''t become disputes: Jaishankar tells China"'
+- 'heading "Differences shouldn''t become disputes: Jaishankar tells China" [level=3]':
+  - 'link "Differences shouldn''t become disputes: Jaishankar tells China"':
+    - /url: https://ishare.rediff.com/video/others/differences-shouldn-t-become-disputes-jaishankar-tells-china/11355129
+- paragraph: 7:33 min
+- paragraph: 16 hours ago
+- paragraph:
+  - link "See More >":
+    - /url: https://ishare.rediff.com
+- heading "PHOTOS" [level=2]:
+  - link "PHOTOS":
+    - /url: https://www.rediff.com/photos
+- link "Like Janhvi's Tulsi Kumari Look? VOTE!":
+  - /url: https://www.rediff.com/movies/report/like-janhvis-tulsi-kumari-look-vote/20250715.htm
+  - img "Like Janhvi's Tulsi Kumari Look? VOTE!"
+- heading "Like Janhvi's Tulsi Kumari Look? VOTE!" [level=3]:
+  - link "Like Janhvi's Tulsi Kumari Look? VOTE!":
+    - /url: https://www.rediff.com/movies/report/like-janhvis-tulsi-kumari-look-vote/20250715.htm
+- link "photoimage":
+  - /url: https://www.rediff.com/sports/report/pix-centenarian-marathon-legend-fauja-singh-dies-in-tragic-accident/20250715.htm
+  - img "Marathon Legend Fauja Singh Dies in Tragic Accident"
+- heading "Marathon Legend Fauja Singh Dies in Tragic Accident" [level=3]:
+  - link "Marathon Legend Fauja Singh Dies in Tragic Accident":
+    - /url: https://www.rediff.com/sports/report/pix-centenarian-marathon-legend-fauja-singh-dies-in-tragic-accident/20250715.htm
+- link "photoimage":
+  - /url: https://www.rediff.com/news/report/every-one-of-these-pictures-tell-a-story/20250715.htm
+  - img "Every One Of These Pictures Tell A Story"
+- heading "Every One Of These Pictures Tell A Story" [level=3]:
+  - link "Every One Of These Pictures Tell A Story":
+    - /url: https://www.rediff.com/news/report/every-one-of-these-pictures-tell-a-story/20250715.htm
+- link "photoimage":
+  - /url: https://www.rediff.com/getahead/report/butter-yellow-stars-sonam-sanya-ananya-zaara/20250715.htm
+  - 'img "Butter Yellow Stars: Sonam, Sanya, Ananya, Zaara..."'
+- 'heading "Butter Yellow Stars: Sonam, Sanya, Ananya, Zaara..." [level=3]':
+  - 'link "Butter Yellow Stars: Sonam, Sanya, Ananya, Zaara..."':
+    - /url: https://www.rediff.com/getahead/report/butter-yellow-stars-sonam-sanya-ananya-zaara/20250715.htm
+- link "photoimage":
+  - /url: https://www.rediff.com/movies/report/ready-for-fafas-maareesan/20250715.htm
+  - img "Ready for FaFa's Maareesan?"
+- heading "Ready for FaFa's Maareesan?" [level=3]:
+  - link "Ready for FaFa's Maareesan?":
+    - /url: https://www.rediff.com/movies/report/ready-for-fafas-maareesan/20250715.htm
+- 'link "Gill''s Grit Missing, Stokes the Difference: Vaughan"':
+  - /url: https://www.rediff.com/cricket/report/vaughan-gill-looked-off-stokes-just-knows-how-to-win-india-tour-england-2025-pix/20250715.htm
+  - 'img "Gill''s Grit Missing, Stokes the Difference: Vaughan"'
+- 'heading "Gill''s Grit Missing, Stokes the Difference: Vaughan" [level=3]':
+  - 'link "Gill''s Grit Missing, Stokes the Difference: Vaughan"':
+    - /url: https://www.rediff.com/cricket/report/vaughan-gill-looked-off-stokes-just-knows-how-to-win-india-tour-england-2025-pix/20250715.htm
+- link "Tesla opens its first India showroom in Mumbai's BKC":
+  - /url: https://www.rediff.com/business/report/tesla-opens-its-first-india-showroom-in-mumbais-bkc/20250715.htm
+  - img "Tesla opens its first India showroom in Mumbai's BKC"
+- heading "Tesla opens its first India showroom in Mumbai's BKC" [level=3]:
+  - link "Tesla opens its first India showroom in Mumbai's BKC":
+    - /url: https://www.rediff.com/business/report/tesla-opens-its-first-india-showroom-in-mumbais-bkc/20250715.htm
+- link "Sachin, netizens applaud team after Lord's heartbreak":
+  - /url: https://www.rediff.com/cricket/report/sachin-netizens-get-behind-team-after-lords-heartbreak-pix-india-tour-england-2025/20250715.htm
+  - img "Sachin, netizens applaud team after Lord's heartbreak"
+- heading "Sachin, netizens applaud team after Lord's heartbreak" [level=3]:
+  - link "Sachin, netizens applaud team after Lord's heartbreak":
+    - /url: https://www.rediff.com/cricket/report/sachin-netizens-get-behind-team-after-lords-heartbreak-pix-india-tour-england-2025/20250715.htm
+- link "Collecting Water From The Ganga":
+  - /url: https://www.rediff.com/news/report/collecting-water-from-the-ganga/20250715.htm
+  - img "Collecting Water From The Ganga"
+- heading "Collecting Water From The Ganga" [level=3]:
+  - link "Collecting Water From The Ganga":
+    - /url: https://www.rediff.com/news/report/collecting-water-from-the-ganga/20250715.htm
+- link "Ananya's Stylish Greek Holiday":
+  - /url: https://www.rediff.com/movies/report/ananyas-stylish-greek-holiday/20250715.htm
+  - img "Ananya's Stylish Greek Holiday"
+- heading "Ananya's Stylish Greek Holiday" [level=3]:
+  - link "Ananya's Stylish Greek Holiday":
+    - /url: https://www.rediff.com/movies/report/ananyas-stylish-greek-holiday/20250715.htm
+- paragraph:
+  - link "See More >":
+    - /url: https://www.rediff.com/photos
+- heading "📺 REDIFF-TV" [level=2]:
+  - text: 📺
+  - link "REDIFF-TV":
+    - /url: https://tv.rediff.com
+- 'link "3 Pm News Flash: July 15, 2025 3 Pm News Flash: July 15, 2025 0:19 min"':
+  - /url: https://tv.rediff.com/hourly/14-15-hourly_news.mp4_video/1415072025
+  - 'img "3 Pm News Flash: July 15, 2025"'
+  - 'heading "3 Pm News Flash: July 15, 2025" [level=3]'
+  - paragraph: 0:19 min
+- link "1 Pm News Flash – July 15, 2025 1 Pm News Flash – July 15, 2025 0:32 min":
+  - /url: https://tv.rediff.com/hourly/13-15-hourly_news.mp4_video/1315072025
+  - img "1 Pm News Flash – July 15, 2025"
+  - heading "1 Pm News Flash – July 15, 2025" [level=3]
+  - paragraph: 0:32 min
+- link "12 Pm News Flash – July 15, 2025 12 Pm News Flash – July 15, 2025 0:27 min":
+  - /url: https://tv.rediff.com/hourly/12-15-hourly_news.mp4_video/1215072025
+  - img "12 Pm News Flash – July 15, 2025"
+  - heading "12 Pm News Flash – July 15, 2025" [level=3]
+  - paragraph: 0:27 min
+- link "11 Am News Flash – July 15, 2025 11 Am News Flash – July 15, 2025 0:25 min":
+  - /url: https://tv.rediff.com/hourly/11-15-hourly_news.mp4_video/1115072025
+  - img "11 Am News Flash – July 15, 2025"
+  - heading "11 Am News Flash – July 15, 2025" [level=3]
+  - paragraph: 0:25 min
+- paragraph:
+  - link "See More >":
+    - /url: https://tv.rediff.com
+- heading "CRICKET" [level=2]:
+  - link "CRICKET":
+    - /url: https://www.rediff.com/cricket
+- link "'They didn't deserve to lose' - Jadeja wins hearts...":
+  - /url: https://www.rediff.com/cricket/report/they-didnt-deserve-to-lose---jadeja-wins-hearts-india-tour-england/20250715.htm
+  - img "'They didn't deserve to lose' - Jadeja wins hearts..."
+- heading "'They didn't deserve to lose' - Jadeja wins hearts..." [level=2]:
+  - link "'They didn't deserve to lose' - Jadeja wins hearts...":
+    - /url: https://www.rediff.com/cricket/report/they-didnt-deserve-to-lose---jadeja-wins-hearts-india-tour-england/20250715.htm
+- paragraph: 3 min read
+- 'link "Lord''s Test: Siraj fined for fiery send-off"':
+  - /url: https://www.rediff.com/cricket/report/lords-test-mohammed-siraj-fined-for-fiery-send-off/20250714.htm
+  - 'img "Lord''s Test: Siraj fined for fiery send-off"'
+- 'heading "Lord''s Test: Siraj fined for fiery send-off" [level=3]':
+  - 'link "Lord''s Test: Siraj fined for fiery send-off"':
+    - /url: https://www.rediff.com/cricket/report/lords-test-mohammed-siraj-fined-for-fiery-send-off/20250714.htm
+- paragraph: 2 min read
+- paragraph: 1 day ago
+- link "Has Karun Nair played his last Test for India?":
+  - /url: https://www.rediff.com/cricket/report/has-karun-nair-played-his-last-test-for-india-tour-england/20250714.htm
+  - img "Has Karun Nair played his last Test for India?"
+- heading "Has Karun Nair played his last Test for India?" [level=3]:
+  - link "Has Karun Nair played his last Test for India?":
+    - /url: https://www.rediff.com/cricket/report/has-karun-nair-played-his-last-test-for-india-tour-england/20250714.htm
+- paragraph: 4 min read
+- paragraph: 18 hours ago
+- 'heading "An Image For The Ages: When Stokes Hugged Jadeja" [level=3]':
+  - 'link "An Image For The Ages: When Stokes Hugged Jadeja"':
+    - /url: https://www.rediff.com/cricket/report/an-image-for-the-ages-when-stokes-hugged-jadeja/20250715.htm
+- paragraph: 2 min read
+- heading "Stokes' Run Out Of Pant Changed Everything" [level=3]:
+  - link "Stokes' Run Out Of Pant Changed Everything":
+    - /url: https://www.rediff.com/cricket/report/stokes-run-out-of-pant-changed-everything-india-tour-england/20250715.htm
+- paragraph: 3 min read
+- 'heading "''Mentally, physically drained'': Gill on Lord''s loss" [level=3]':
+  - 'link "''Mentally, physically drained'': Gill on Lord''s loss"':
+    - /url: https://www.rediff.com/cricket/report/mentally-physically-drained-gill-on-lords-loss-india-tour-england/20250715.htm
+- paragraph: 2 min read
+- heading "Ben Stokes scripts Lord's miracle after injury" [level=3]:
+  - link "Ben Stokes scripts Lord's miracle after injury":
+    - /url: https://www.rediff.com/cricket/report/ben-stokes-scripts-lords-miracle-after-injury/20250714.htm
+- paragraph: 3 min read
+- 'heading "Youth Test: Suryavanshi blitz puts India on top" [level=3]':
+  - 'link "Youth Test: Suryavanshi blitz puts India on top"':
+    - /url: https://www.rediff.com/cricket/report/youth-test-suryavanshi-blitz-puts-india-on-top/20250715.htm
+- paragraph: 2 min read
+- paragraph:
+  - link "See More >":
+    - /url: https://www.rediff.com/cricket
+- heading "CRICKET & SPORTS" [level=2]:
+  - link "CRICKET & SPORTS":
+    - /url: https://www.rediff.com/sports
+- link "Neeraj Chopra watches Sinner make Wimbledon history":
+  - /url: https://www.rediff.com/sports/report/neeraj-chopra-watches-sinner-make-wimbledon-history/20250714.htm
+  - img "Neeraj Chopra watches Sinner make Wimbledon history"
+- heading "Neeraj Chopra watches Sinner make Wimbledon history" [level=2]:
+  - link "Neeraj Chopra watches Sinner make Wimbledon history":
+    - /url: https://www.rediff.com/sports/report/neeraj-chopra-watches-sinner-make-wimbledon-history/20250714.htm
+- paragraph: 2 min read
+- 'link "PIX: When Champion Sinner met UK''s Royal kids"':
+  - /url: https://www.rediff.com/sports/report/pix-when-champion-sinner-met-uks-royal-kids-wimbledon-2025/20250714.htm
+  - 'img "PIX: When Champion Sinner met UK''s Royal kids"'
+- 'heading "PIX: When Champion Sinner met UK''s Royal kids" [level=3]':
+  - 'link "PIX: When Champion Sinner met UK''s Royal kids"':
+    - /url: https://www.rediff.com/sports/report/pix-when-champion-sinner-met-uks-royal-kids-wimbledon-2025/20250714.htm
+- paragraph: 2 min read
+- paragraph: 1 day ago
+- link "Boos and cheers for Trump at Club World Cup final":
+  - /url: https://www.rediff.com/sports/report/pix-boos-and-cheers-for-trump-at-fifa-club-world-cup-final-chelsea-psg/20250714.htm
+  - img "Boos and cheers for Trump at Club World Cup final"
+- heading "Boos and cheers for Trump at Club World Cup final" [level=3]:
+  - link "Boos and cheers for Trump at Club World Cup final":
+    - /url: https://www.rediff.com/sports/report/pix-boos-and-cheers-for-trump-at-fifa-club-world-cup-final-chelsea-psg/20250714.htm
+- paragraph: 3 min read
+- paragraph: 1 day ago
+- heading "Starc record as Australia dismiss West Indies for 27!" [level=3]:
+  - link "Starc record as Australia dismiss West Indies for 27!":
+    - /url: https://www.rediff.com/cricket/report/starc-record-as-australia-bowl-out-windies-for-27-to-win-3rd-test-bolland/20250715.htm
+- paragraph: 3 min read
+- heading "Saina Nehwal, Kashyap part ways!" [level=3]:
+  - link "Saina Nehwal, Kashyap part ways!":
+    - /url: https://www.rediff.com/sports/report/saina-kashyap-part-ways/20250714.htm
+- paragraph: 2 min read
+- heading "Women's boxing had its biggest night - here's why" [level=3]:
+  - link "Women's boxing had its biggest night - here's why":
+    - /url: https://www.rediff.com/sports/report/womens-boxing-had-its-biggest-night---heres-why/20250714.htm
+- paragraph: 3 min read
+- heading "Yarraji out of Worlds! ACL surgery ends her season" [level=3]:
+  - link "Yarraji out of Worlds! ACL surgery ends her season":
+    - /url: https://www.rediff.com/sports/report/yarraji-out-of-worlds-acl-surgery-ends-her-season/20250714.htm
+- paragraph: 3 min read
+- heading "Sinner-Alcaraz 'rivalry is becoming better and better'" [level=3]:
+  - link "Sinner-Alcaraz 'rivalry is becoming better and better'":
+    - /url: https://www.rediff.com/sports/report/wimbledon-sinner-alcaraz-rivalry-is-becoming-better-and-better/20250714.htm
+- paragraph: 4 min read
+- paragraph:
+  - link "See More >":
+    - /url: https://www.rediff.com/sports
+- heading "MOVIES" [level=2]:
+  - link "MOVIES":
+    - /url: https://www.rediff.com/movies
+- 'link "Manushi: The New Desi Girl"':
+  - /url: https://www.rediff.com/movies/report/manushi-the-new-desi-girl/20250714.htm
+  - 'img "Manushi: The New Desi Girl"'
+- 'heading "Manushi: The New Desi Girl" [level=2]':
+  - 'link "Manushi: The New Desi Girl"':
+    - /url: https://www.rediff.com/movies/report/manushi-the-new-desi-girl/20250714.htm
+- paragraph: 2 min read
+- link "Pregnant Rihanna Attends Smurfs Premiere":
+  - /url: https://www.rediff.com/movies/report/pregnant-rihanna-attends-smurfs-premiere/20250714.htm
+  - img "Pregnant Rihanna Attends Smurfs Premiere"
+- heading "Pregnant Rihanna Attends Smurfs Premiere" [level=3]:
+  - link "Pregnant Rihanna Attends Smurfs Premiere":
+    - /url: https://www.rediff.com/movies/report/pregnant-rihanna-attends-smurfs-premiere/20250714.htm
+- paragraph: 1 min read
+- paragraph: 22 hours ago
+- link "Superman Beats Maalik At The Box Office":
+  - /url: https://www.rediff.com/movies/report/superman-beats-maalik-at-the-box-office/20250714.htm
+  - img "Superman Beats Maalik At The Box Office"
+- heading "Superman Beats Maalik At The Box Office" [level=3]:
+  - link "Superman Beats Maalik At The Box Office":
+    - /url: https://www.rediff.com/movies/report/superman-beats-maalik-at-the-box-office/20250714.htm
+- paragraph: 2 min read
+- paragraph: 1 day ago
+- heading "The Legend of M T Vasudevan Nair Lives On" [level=3]:
+  - link "The Legend of M T Vasudevan Nair Lives On":
+    - /url: https://www.rediff.com/movies/column/the-legend-of-m-t-vasudevan-nair-lives-on/20250715.htm
+- paragraph: 9 min read
+- heading "Movie Legend B Saroja Devi Dies" [level=3]:
+  - link "Movie Legend B Saroja Devi Dies":
+    - /url: https://www.rediff.com/movies/report/kannadas-first-female-superstar-b-saroja-devi-dies/20250714.htm
+- paragraph: 3 min read
+- heading "Here's When Family Man 3 Will Premiere" [level=3]:
+  - link "Here's When Family Man 3 Will Premiere":
+    - /url: https://www.rediff.com/movies/report/heres-when-family-man-3-will-premiere/20250714.htm
+- paragraph: 1 min read
+- heading "'I Was Not A Home-Breaker'" [level=3]:
+  - link "'I Was Not A Home-Breaker'":
+    - /url: https://www.rediff.com/movies/report/i-was-not-a-home-breaker/20250714.htm
+- paragraph: 3 min read
+- heading "Bold Moves Must For Silver Screen To Sparkle Again" [level=3]:
+  - link "Bold Moves Must For Silver Screen To Sparkle Again":
+    - /url: https://www.rediff.com/movies/column/bold-moves-must-for-silver-screen-to-sparkle-again/20250712.htm
+- paragraph: 7 min read
+- paragraph:
+  - link "See More >":
+    - /url: https://www.rediff.com/movies
+- text: Advertisement
+- insertion:
+  - iframe
+- heading "GET AHEAD" [level=2]:
+  - link "GET AHEAD":
+    - /url: https://www.rediff.com/getahead
+- link "MostlySane Prajakta Makes TIME's Top 100!":
+  - /url: https://www.rediff.com/getahead/report/mostlysane-prajakta-makes-times-top-100/20250714.htm
+  - img "MostlySane Prajakta Makes TIME's Top 100!"
+- heading "MostlySane Prajakta Makes TIME's Top 100!" [level=2]:
+  - link "MostlySane Prajakta Makes TIME's Top 100!":
+    - /url: https://www.rediff.com/getahead/report/mostlysane-prajakta-makes-times-top-100/20250714.htm
+- paragraph: 2 min read
+- link "Kiara, Khushi's Flirty Tulle Looks":
+  - /url: https://www.rediff.com/getahead/report/kiara-khushis-flirty-tulle-looks/20250714.htm
+  - img "Kiara, Khushi's Flirty Tulle Looks"
+- heading "Kiara, Khushi's Flirty Tulle Looks" [level=3]:
+  - link "Kiara, Khushi's Flirty Tulle Looks":
+    - /url: https://www.rediff.com/getahead/report/kiara-khushis-flirty-tulle-looks/20250714.htm
+- paragraph: 2 min read
+- paragraph: 23 hours ago
+- link "Mahima Makwana's Playful Spin On Fashion":
+  - /url: https://www.rediff.com/getahead/report/mahima-makwanas-playful-spin-on-fashion/20250714.htm
+  - img "Mahima Makwana's Playful Spin On Fashion"
+- heading "Mahima Makwana's Playful Spin On Fashion" [level=3]:
+  - link "Mahima Makwana's Playful Spin On Fashion":
+    - /url: https://www.rediff.com/getahead/report/mahima-makwanas-playful-spin-on-fashion/20250714.htm
+- paragraph: 2 min read
+- paragraph: 1 day ago
+- heading "'Immediately Close Your Car Loan, And...'" [level=3]:
+  - link "'Immediately Close Your Car Loan, And...'":
+    - /url: https://www.rediff.com/getahead/report/immediately-close-your-car-loan-and/20250715.htm
+- paragraph: 8 min read
+- heading "Know Your Rights Before Cancelling Flat Booking" [level=3]:
+  - link "Know Your Rights Before Cancelling Flat Booking":
+    - /url: https://www.rediff.com/getahead/report/know-your-rights-before-cancelling-flat-booking/20250714.htm
+- paragraph: 5 min read
+- heading "'He's Married, But Wants to Flirt...'" [level=3]:
+  - link "'He's Married, But Wants to Flirt...'":
+    - /url: https://www.rediff.com/getahead/report/hes-married-but-wants-to-flirt/20250714.htm
+- paragraph: 4 min read
+- heading "Want To Study BPharm, Engineering In Europe?" [level=3]:
+  - link "Want To Study BPharm, Engineering In Europe?":
+    - /url: https://www.rediff.com/getahead/report/ask-rediffguru-sushil-sukhwani-top-colleges-to-study-bpharm-engineering-in-uk-europe/20250711.htm
+- paragraph: 7 min read
+- 'heading "Green Shakshuka: 30-Min Recipe" [level=3]':
+  - 'link "Green Shakshuka: 30-Min Recipe"':
+    - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-green-shakshuka-30-min-recipe/20250711.htm
+- paragraph: 7 min read
+- paragraph:
+  - link "See More >":
+    - /url: https://www.rediff.com/getahead
+- heading "BUSINESS" [level=2]:
+  - link "BUSINESS":
+    - /url: https://www.rediff.com/business
+- link "Festive Buzz To Boost Gig Jobs":
+  - /url: https://www.rediff.com/business/report/festive-buzz-to-boost-gig-jobs/20250711.htm
+  - img "Festive Buzz To Boost Gig Jobs"
+- heading "Festive Buzz To Boost Gig Jobs" [level=2]:
+  - link "Festive Buzz To Boost Gig Jobs":
+    - /url: https://www.rediff.com/business/report/festive-buzz-to-boost-gig-jobs/20250711.htm
+- paragraph: 5 min read
+- link "Mahindra e-SUVs Can Now Drive Upto 500 km On Single Charge":
+  - /url: https://www.rediff.com/business/report/auto-mahindra-e-suvs-can-now-drive-upto-500-km-on-single-charge/20250711.htm
+  - img "Mahindra e-SUVs Can Now Drive Upto 500 km On Single Charge"
+- heading "Mahindra e-SUVs Can Now Drive Upto 500 km On Single Charge" [level=3]:
+  - link "Mahindra e-SUVs Can Now Drive Upto 500 km On Single Charge":
+    - /url: https://www.rediff.com/business/report/auto-mahindra-e-suvs-can-now-drive-upto-500-km-on-single-charge/20250711.htm
+- paragraph: 3 min read
+- paragraph: 4 days ago
+- link "Google AI Bets Big On Indian Farms, Languages":
+  - /url: https://www.rediff.com/business/report/google-ai-bets-big-on-indian-farms-languages/20250711.htm
+  - img "Google AI Bets Big On Indian Farms, Languages"
+- heading "Google AI Bets Big On Indian Farms, Languages" [level=3]:
+  - link "Google AI Bets Big On Indian Farms, Languages":
+    - /url: https://www.rediff.com/business/report/google-ai-bets-big-on-indian-farms-languages/20250711.htm
+- paragraph: 4 min read
+- paragraph: 4 days ago
+- heading "IPOs mark a new era for India's hospitality industry" [level=3]:
+  - link "IPOs mark a new era for India's hospitality industry":
+    - /url: https://www.rediff.com/business/report/ipos-mark-a-new-era-for-indias-hospitality-industry-with-scale-ambition/20250715.htm
+- paragraph: 7 min read
+- heading "Jane Street puts lens on high-frequency trading, quant firms" [level=3]:
+  - link "Jane Street puts lens on high-frequency trading, quant firms":
+    - /url: https://www.rediff.com/business/report/jane-street-puts-lens-on-high-frequency-trading-quant-firms/20250715.htm
+- paragraph: 4 min read
+- heading "Wholesale prices fall 0.13% in June to 20-mth low" [level=3]:
+  - link "Wholesale prices fall 0.13% in June to 20-mth low":
+    - /url: https://www.rediff.com/business/report/wholesale-price-inflation-falls-013-in-june-to-20-mth-low/20250714.htm
+- paragraph: 2 min read
+- heading "Real estate slow to embrace tech as expenses mount" [level=3]:
+  - link "Real estate slow to embrace tech as expenses mount":
+    - /url: https://www.rediff.com/business/report/real-estate-slow-to-embrace-technology-as-expenses-mount/20250714.htm
+- paragraph: 3 min read
+- heading "'High equality ranking for India masks deeper gaps'" [level=3]:
+  - link "'High equality ranking for India masks deeper gaps'":
+    - /url: https://www.rediff.com/business/report/high-equality-ranking-for-india-masks-deeper-gaps-say-economists/20250714.htm
+- paragraph: 3 min read
+- paragraph:
+  - link "See More >":
+    - /url: https://www.rediff.com/business
+- heading "EDITOR'S CHOICE" [level=2]
+- link "3 Diet Changes For A Healthy Heart":
+  - /url: https://www.rediff.com/getahead/report/-diet-changes-for-a-healthy-heart/20230929.htm
+  - img "3 Diet Changes For A Healthy Heart"
+- heading "3 Diet Changes For A Healthy Heart" [level=2]:
+  - link "3 Diet Changes For A Healthy Heart":
+    - /url: https://www.rediff.com/getahead/report/-diet-changes-for-a-healthy-heart/20230929.htm
+- link "4 Tips To Communicate Well At Work":
+  - /url: https://www.rediff.com/getahead/report/four-tips-to-communicate-well-at-work/20231006.htm
+  - img "4 Tips To Communicate Well At Work"
+- heading "4 Tips To Communicate Well At Work" [level=3]:
+  - link "4 Tips To Communicate Well At Work":
+    - /url: https://www.rediff.com/getahead/report/four-tips-to-communicate-well-at-work/20231006.htm
+- paragraph: 1 year ago
+- link "5 Tips To Stay Mentally Fit and Happy":
+  - /url: https://www.rediff.com/getahead/report/5-tips-to-stay-mentally-fit-and-happy/20231011.htm
+  - img "5 Tips To Stay Mentally Fit and Happy"
+- heading "5 Tips To Stay Mentally Fit and Happy" [level=3]:
+  - link "5 Tips To Stay Mentally Fit and Happy":
+    - /url: https://www.rediff.com/getahead/report/5-tips-to-stay-mentally-fit-and-happy/20231011.htm
+- paragraph: 1 year ago
+- heading "Let Your Child Fund Their Education!" [level=3]:
+  - link "Let Your Child Fund Their Education!":
+    - /url: https://www.rediff.com/getahead/report/let-your-child-fund-their-education/20231013.htm
+- paragraph
+- heading "Pay Off Home Loan? Invest For Retirement?" [level=3]:
+  - link "Pay Off Home Loan? Invest For Retirement?":
+    - /url: https://www.rediff.com/getahead/report/pay-off-home-loan-invest-for-retirement/20231012.htm
+- paragraph
+- heading "Buying Term Insurance? 7 Tips For YOU" [level=3]:
+  - link "Buying Term Insurance? 7 Tips For YOU":
+    - /url: https://www.rediff.com/getahead/report/buying-term-insurance-7-tips-for-you/20231011.htm
+- paragraph
+- heading "Tips To Buy A House Through A Broker" [level=3]:
+  - link "Tips To Buy A House Through A Broker":
+    - /url: https://www.rediff.com/getahead/report/tips-to-buy-a-house-through-a-broker/20231010.htm
+- paragraph
+- heading "How Should The Young Invest Their Money?" [level=3]:
+  - link "How Should The Young Invest Their Money?":
+    - /url: https://www.rediff.com/getahead/report/how-should-the-young-invest-their-money/20230929.htm
+- paragraph
+- heading "MARKET NEWS" [level=2]:
+  - link "MARKET NEWS":
+    - /url: https://money.rediff.com/news/share-market-news
+- link "ISMA Urges India to Maintain Fuel Ethanol Import Restrictions":
+  - /url: https://money.rediff.com/news/market/isma-urges-india-to-maintain-fuel-ethanol-import-restrictions/30198220250715
+  - img "ISMA Urges India to Maintain Fuel Ethanol Import Restrictions"
+- heading "ISMA Urges India to Maintain Fuel Ethanol Import Restrictions" [level=3]:
+  - link "ISMA Urges India to Maintain Fuel Ethanol Import Restrictions":
+    - /url: https://money.rediff.com/news/market/isma-urges-india-to-maintain-fuel-ethanol-import-restrictions/30198220250715
+- paragraph
+- link "ICICI Pru Life Q1 Profit Jumps 34% to Rs 302 cr":
+  - /url: https://money.rediff.com/news/market/icici-pru-life-q1-profit-jumps-34-to-rs-302-cr/30197920250715
+  - img "ICICI Pru Life Q1 Profit Jumps 34% to Rs 302 cr"
+- link "ICICI Pru Life Q1 Profit Jumps 34% to Rs 302 cr":
+  - /url: https://money.rediff.com/news/market/icici-pru-life-q1-profit-jumps-34-to-rs-302-cr/30197920250715
+- link "SIA Checks Boeing 787 Fuel Switches":
+  - /url: https://money.rediff.com/news/market/sia-checks-boeing-787-fuel-switches/30197820250715
+  - img "SIA Checks Boeing 787 Fuel Switches"
+- link "SIA Checks Boeing 787 Fuel Switches":
+  - /url: https://money.rediff.com/news/market/sia-checks-boeing-787-fuel-switches/30197820250715
+- 'link "Housing Plots in High Demand: Rs 2.44 Lakh Cr Launched"':
+  - /url: https://money.rediff.com/news/market/housing-plots-in-high-demand-rs-2-44-lakh-cr-launched/30197420250715
+  - 'img "Housing Plots in High Demand: Rs 2.44 Lakh Cr Launched"'
+- 'link "Housing Plots in High Demand: Rs 2.44 Lakh Cr Launched"':
+  - /url: https://money.rediff.com/news/market/housing-plots-in-high-demand-rs-2-44-lakh-cr-launched/30197420250715
+- paragraph:
+  - link "See More >":
+    - /url: https://money.rediff.com/news/share-market-news
+- heading "MOST POPULAR" [level=2]
+- list:
+  - listitem:
+    - link "Tesla opens its first India showroom in Mumbai's...":
+      - /url: https://www.rediff.com/business/report/tesla-opens-its-first-india-showroom-in-mumbais-bkc/20250715.htm
+  - listitem:
+    - link "Cricket mourns the loss of former Aussie pacer...":
+      - /url: https://www.rediff.com/cricket/report/cricket-mourns-the-loss-of-former-aussie-pacer-rorke/20250709.htm
+  - listitem:
+    - link "All About Wimbledon Champion Jannik Sinner":
+      - /url: https://www.rediff.com/sports/report/all-about-wimbledon-champion-jannik-sinner/20250714.htm
+  - listitem:
+    - link "Marc Marquez reigns supreme to win German MotoGP":
+      - /url: https://www.rediff.com/sports/report/marc-marquez-reigns-supreme-to-win-german-motogp/20250713.htm
+  - listitem:
+    - 'link "Jab We Met: ''I liked her bold, straightforward..."':
+      - /url: https://www.rediff.com/getahead/report/specials-jab-we-met-i-liked-her-bold-straightforward-nature/20160322.htm
+- link "image for you":
+  - /url: https://www.rediff.com/news/report/pm-rss-cartoons-sc-says-right-to-free-speech-being-abused/20250714.htm
+  - img "image for you"
+- heading "FOR YOU" [level=2]
+- 'heading "PM, RSS cartoons: SC says right to free speech being ''abused''" [level=3]':
+  - 'link "PM, RSS cartoons: SC says right to free speech being ''abused''"':
+    - /url: https://www.rediff.com/news/report/pm-rss-cartoons-sc-says-right-to-free-speech-being-abused/20250714.htm
+- heading "STORIES YOU MAY HAVE MISSED" [level=2]
+- 'link "Why Congress Expelled Me: Laxman Singh Speaks Out"':
+  - /url: https://www.rediff.com/news/interview/why-congress-expelled-me-laxman-singh-speaks-out/20250626.htm
+  - 'img "Why Congress Expelled Me: Laxman Singh Speaks Out"'
+- 'heading "Why Congress Expelled Me: Laxman Singh Speaks Out" [level=3]':
+  - 'link "Why Congress Expelled Me: Laxman Singh Speaks Out"':
+    - /url: https://www.rediff.com/news/interview/why-congress-expelled-me-laxman-singh-speaks-out/20250626.htm
+- paragraph: 4 min read
+- link "'This Isn't How A Crash Probe Should Work'":
+  - /url: https://www.rediff.com/news/interview/ai-171-crash-this-isnt-how-a-crash-probe-should-work/20250627.htm
+  - img "'This Isn't How A Crash Probe Should Work'"
+- heading "'This Isn't How A Crash Probe Should Work'" [level=3]:
+  - link "'This Isn't How A Crash Probe Should Work'":
+    - /url: https://www.rediff.com/news/interview/ai-171-crash-this-isnt-how-a-crash-probe-should-work/20250627.htm
+- paragraph: 6 min read
+- link "Top 10 Iranian Movies":
+  - /url: https://www.rediff.com/movies/slide-show/slide-show-1-top-10-iranian-movies/20250626.htm
+  - img "Top 10 Iranian Movies"
+- heading "Top 10 Iranian Movies" [level=3]:
+  - link "Top 10 Iranian Movies":
+    - /url: https://www.rediff.com/movies/slide-show/slide-show-1-top-10-iranian-movies/20250626.htm
+- paragraph: 6 min read
+- link "How Does Joint FD Tax Work for Married Couples?":
+  - /url: https://www.rediff.com/getahead/report/how-does-joint-fd-tax-work-for-married-couples/20250627.htm
+  - img "How Does Joint FD Tax Work for Married Couples?"
+- heading "How Does Joint FD Tax Work for Married Couples?" [level=3]:
+  - link "How Does Joint FD Tax Work for Married Couples?":
+    - /url: https://www.rediff.com/getahead/report/how-does-joint-fd-tax-work-for-married-couples/20250627.htm
+- paragraph: 5 min read
+- link "Which Country Has The Highest No Of Sex Workers?":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-which-country-has-the-highest-no-of-sex-workers/20250626.htm
+  - img "Which Country Has The Highest No Of Sex Workers?"
+- heading "Which Country Has The Highest No Of Sex Workers?" [level=3]:
+  - link "Which Country Has The Highest No Of Sex Workers?":
+    - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-which-country-has-the-highest-no-of-sex-workers/20250626.htm
+- paragraph: 5 min read
+- 'link "Parisa''s Village Adventure: Bunnies, Fields And..."':
+  - /url: https://www.rediff.com/getahead/report/parisas-village-adventure-bunnies-fields-and/20250627.htm
+  - 'img "Parisa''s Village Adventure: Bunnies, Fields And..."'
+- 'heading "Parisa''s Village Adventure: Bunnies, Fields And..." [level=3]':
+  - 'link "Parisa''s Village Adventure: Bunnies, Fields And..."':
+    - /url: https://www.rediff.com/getahead/report/parisas-village-adventure-bunnies-fields-and/20250627.htm
+- paragraph: 6 min read
+- 'link "50 Years Of Emergency: Banality Of Evil, And A Warning"':
+  - /url: https://www.rediff.com/news/column/history-in-minutes-50-years-of-emergency-banality-of-evil-and-a-warning/20250626.htm
+  - 'img "50 Years Of Emergency: Banality Of Evil, And A Warning"'
+- 'heading "50 Years Of Emergency: Banality Of Evil, And A Warning" [level=3]':
+  - 'link "50 Years Of Emergency: Banality Of Evil, And A Warning"':
+    - /url: https://www.rediff.com/news/column/history-in-minutes-50-years-of-emergency-banality-of-evil-and-a-warning/20250626.htm
+- paragraph: 8 min read
+- link "Kalyanji-Anandji's Top 10 Songs":
+  - /url: https://www.rediff.com/movies/slide-show/slide-show-1-kalyanji-anandjis-top-10-songs/20250630.htm
+  - img "Kalyanji-Anandji's Top 10 Songs"
+- heading "Kalyanji-Anandji's Top 10 Songs" [level=3]:
+  - link "Kalyanji-Anandji's Top 10 Songs":
+    - /url: https://www.rediff.com/movies/slide-show/slide-show-1-kalyanji-anandjis-top-10-songs/20250630.htm
+- paragraph: 8 min read
+- link "Samantha, Nargis, Sanya Get Sassy":
+  - /url: https://www.rediff.com/getahead/report/nargis-samanthas-sassy-take-on/20250627.htm
+  - img "Samantha, Nargis, Sanya Get Sassy"
+- heading "Samantha, Nargis, Sanya Get Sassy" [level=3]:
+  - link "Samantha, Nargis, Sanya Get Sassy":
+    - /url: https://www.rediff.com/getahead/report/nargis-samanthas-sassy-take-on/20250627.htm
+- paragraph: 1 min read
+- link "Indira Gandhi's Enemy No. 1 During The Emergency":
+  - /url: https://www.rediff.com/news/interview/indira-gandhis-enemy-no-1-during-the-emergency/20250626.htm
+  - img "Indira Gandhi's Enemy No. 1 During The Emergency"
+- heading "Indira Gandhi's Enemy No. 1 During The Emergency" [level=3]:
+  - link "Indira Gandhi's Enemy No. 1 During The Emergency":
+    - /url: https://www.rediff.com/news/interview/indira-gandhis-enemy-no-1-during-the-emergency/20250626.htm
+- paragraph: 10 min read
+- heading "THE TIMELESS 100" [level=2]:
+  - link "THE TIMELESS 100":
+    - /url: https://www.rediff.com/topstories
+- link "The World's 10 Least Liveable Cities":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-the-worlds-10-least-liveable-cities/20250624.htm
+  - img "The World's 10 Least Liveable Cities"
+- heading "The World's 10 Least Liveable Cities" [level=3]:
+  - link "The World's 10 Least Liveable Cities":
+    - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-the-worlds-10-least-liveable-cities/20250624.htm
+- paragraph: 4 min read
+- link "RD Burman's Top 13 Songs":
+  - /url: https://www.rediff.com/movies/slide-show/slide-show-1-rd-burmans-top-13-songs/20250627.htm
+  - img "RD Burman's Top 13 Songs"
+- heading "RD Burman's Top 13 Songs" [level=3]:
+  - link "RD Burman's Top 13 Songs":
+    - /url: https://www.rediff.com/movies/slide-show/slide-show-1-rd-burmans-top-13-songs/20250627.htm
+- link "'Human Error Keeps Dreamliner Reputation Intact'":
+  - /url: https://www.rediff.com/news/interview/ai-171-crash-human-error-verdict-keeps-dreamliners-reputation-intact/20250630.htm
+  - img "'Human Error Keeps Dreamliner Reputation Intact'"
+- heading "'Human Error Keeps Dreamliner Reputation Intact'" [level=3]:
+  - link "'Human Error Keeps Dreamliner Reputation Intact'":
+    - /url: https://www.rediff.com/news/interview/ai-171-crash-human-error-verdict-keeps-dreamliners-reputation-intact/20250630.htm
+- paragraph: 4 min read
+- link "Actor Shefali Jariwala dead; cause of death 'reserved'":
+  - /url: https://www.rediff.com/movies/report/actor-shefali-jariwala-dead-cause-of-death-unclear/20250628.htm
+  - img "Actor Shefali Jariwala dead; cause of death 'reserved'"
+- heading "Actor Shefali Jariwala dead; cause of death 'reserved'" [level=3]:
+  - link "Actor Shefali Jariwala dead; cause of death 'reserved'":
+    - /url: https://www.rediff.com/movies/report/actor-shefali-jariwala-dead-cause-of-death-unclear/20250628.htm
+- paragraph: 5 min read
+- link "Kannappa Review":
+  - /url: https://www.rediff.com/movies/review/kannappa-review/20250627.htm
+  - img "Kannappa Review"
+- heading "Kannappa Review" [level=3]:
+  - link "Kannappa Review":
+    - /url: https://www.rediff.com/movies/review/kannappa-review/20250627.htm
+- paragraph: 4 min read
+- link "Maharashtra's 8 Maha-Mouthwatering Dishes":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-8-dishes-that-make-maharashtra-famous/20250626.htm
+  - img "Maharashtra's 8 Maha-Mouthwatering Dishes"
+- heading "Maharashtra's 8 Maha-Mouthwatering Dishes" [level=3]:
+  - link "Maharashtra's 8 Maha-Mouthwatering Dishes":
+    - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-8-dishes-that-make-maharashtra-famous/20250626.htm
+- paragraph: 3 min read
+- link "Karisma Kapoor's Top 10 Songs":
+  - /url: https://www.rediff.com/movies/slide-show/slide-show-1-karisma-kapoors-top-7-songs/20250625.htm
+  - img "Karisma Kapoor's Top 10 Songs"
+- heading "Karisma Kapoor's Top 10 Songs" [level=3]:
+  - link "Karisma Kapoor's Top 10 Songs":
+    - /url: https://www.rediff.com/movies/slide-show/slide-show-1-karisma-kapoors-top-7-songs/20250625.htm
+- paragraph: 3 min read
+- link "BCCI slammed for Bumrah blunder":
+  - /url: https://www.rediff.com/cricket/report/bcci-slammed-for-revealing-bumrah-plan-india-tour-england-2025/20250627.htm
+  - img "BCCI slammed for Bumrah blunder"
+- heading "BCCI slammed for Bumrah blunder" [level=3]:
+  - link "BCCI slammed for Bumrah blunder":
+    - /url: https://www.rediff.com/cricket/report/bcci-slammed-for-revealing-bumrah-plan-india-tour-england-2025/20250627.htm
+- paragraph: 3 min read
+- link "The 10 Best Universities In The World":
+  - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-the-10-best-universities-in-the-world-2025/20250627.htm
+  - img "The 10 Best Universities In The World"
+- heading "The 10 Best Universities In The World" [level=3]:
+  - link "The 10 Best Universities In The World":
+    - /url: https://www.rediff.com/getahead/slide-show/slide-show-1-the-10-best-universities-in-the-world-2025/20250627.htm
+- paragraph: 3 min read
+- link "'Sanjay Gandhi Was On Verge Of Throwing Out Indira'":
+  - /url: https://www.rediff.com/news/interview/sanjay-gandhi-was-on-the-verge-of-throwing-out-indira/20250627.htm
+  - img "'Sanjay Gandhi Was On Verge Of Throwing Out Indira'"
+- heading "'Sanjay Gandhi Was On Verge Of Throwing Out Indira'" [level=3]:
+  - link "'Sanjay Gandhi Was On Verge Of Throwing Out Indira'":
+    - /url: https://www.rediff.com/news/interview/sanjay-gandhi-was-on-the-verge-of-throwing-out-indira/20250627.htm
+- paragraph: 7 min read
+- link "See More >":
+  - /url: https://www.rediff.com/topstories
+- text: Advertisement
+- insertion:
+  - link:
+    - /url: ""
+- link "Rediffmail for Work":
+  - /url: https://track.rediff.com/click?url=___https://workmail.rediff.com?sc_cid=footer-biz-email___&cmp=host&lnk=footer-biz-email&nsrv1=host
+- link "Book a domain":
+  - /url: https://track.rediff.com/click?url=___https://businessemail.rediff.com/domain?sc_cid=footer-domain___&cmp=host&lnk=footer-domain&nsrv1=host
+- link "Rediffmail":
+  - /url: https://mail.rediff.com/cgi-bin/login.cgi
+- link "Money":
+  - /url: https://money.rediff.com
+- link "Videos":
+  - /url: https://ishare.rediff.com
+- link "The Timeless 100":
+  - /url: https://www.rediff.com/topstories
+- img "rediff on the net"
+- text: © 2025
+- link "Rediff.com":
+  - /url: https://www.rediff.com/
+- text: "-"
+- link "Investor Information":
+  - /url: https://investor.rediff.com/
+- text: "-"
+- link "Advertise with us":
+  - /url: https://clients.rediff.com/rediff_advertisewithus/contact.htm
+- text: "-"
+- link "Disclaimer":
+  - /url: https://www.rediff.com/disclaim.htm
+- text: "-"
+- link "Privacy Policy":
+  - /url: https://www.rediff.com/w3c/policy.html
+- text: "-"
+- link "Sitemap":
+  - /url: https://www.rediff.com/sitemap.xml
+- text: "-"
+- link "Feedback":
+  - /url: https://mypage.rediff.com/feedback
+- text: "-"
+- link "About us":
+  - /url: https://www.rediff.com/aboutus.html
+- text: "-"
+- link "Terms of use":
+  - /url: https://www.rediff.com/terms.html
+- text: "-"
+- link "Grievances":
+  - /url: https://www.rediff.com/grievances.html
+```
